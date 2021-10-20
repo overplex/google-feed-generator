@@ -18,11 +18,11 @@ Or add this to your `composer.json` file:
 
 ```json
 "require": {
-	"overplex/google-feed-generator": "dev-master",
+  "overplex/google-feed-generator": "dev-master",
 }
 ```
 
-Usage examples
+Usage example
 -------------
 
 ```php
@@ -82,4 +82,4 @@ $unbufferedDb->close();
 Copyright / License
 -------------------
 
-See [LICENSE](https://github.com/overplex/GoogleFeedGenerator/blob/master/LICENSE)
+See [LICENSE](https://github.com/overplex/google-feed-generator/blob/master/LICENSE)
